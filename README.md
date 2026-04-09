@@ -158,6 +158,7 @@ Table of Contents
    * https://highon.coffee/blog/reverse-shell-cheat-sheet/ - Reverse Shell Cheat Sheet
    * https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/ - SQL Injection Cheat Sheet
    * https://www.gracefulsecurity.com/path-traversal-cheat-sheet-windows/ - Path Traversal Cheat Sheet: Windows
+   * [Pentest Mindmap](https://pentestmindmap.com/en) - Interactive mindmap with 11,600+ pentesting commands across 32 categories. Searchable with one-click copy.
 
 ## Docker images for Penetration Testing
 

@@ -246,6 +246,7 @@ Table of Contents
    * https://labex.io/skilltrees/cybersecurity - LabEx is an online platform for enhancing your cyber security skills through hands-on labs.
    * https://pythoncyber.go.ro - CyberPython helps you to make your own research in order to solve challenges, exploit CVEs and make good scripts.
    * https://github.com/kOaDT/oss-oopssec-store - OSS – OopsSec Store: An intentionally vulnerable e-commerce application built with Next.js and React for web security training and CTF practice.
+   * https://github.com/momenbasel/htb-writeups - HTB Writeups: The most comprehensive Hack The Box writeup collection with 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and cheatsheets.
 
 ## SSL
 

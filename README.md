@@ -160,6 +160,12 @@ Table of Contents
    * https://github.com/DenisPodgurskii/pentestkit - Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.
 - [SaaSFort](https://saasfort.com/scan) - Free 60-second external NIS2 / security posture scan, A-F grade, no signup required.
 - [ARS3NAL](https://github.com/inflictx/Arsenal) - Offline-first, searchable arsenal: ~1500 payloads, command generator, GTFOBins, wordlists, embedded CyberChef, reverse shells and 70 checklists.
+- [Mozilla - HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Developed by Mozilla, the HTTP Observatory performs an in-depth assessment of a site’s HTTP headers and other key security configurations.
+- [HTTP Security Report](https://httpsecurityreport.com/) - Get an instant report of how your website measures up to the best practices.
+- [ImmuniWeb CyberScore](https://www.immuniweb.com/cyberscore/) - free cybersecurity, privacy and AI security rating of your company, partners or suppliers
+- [ImmuniWeb - Website Security Test](https://www.immuniweb.com/websec/) - Checks for web security vulnerabilities, AI bot protection, HTTP security and privacy headers, DNSSEC configuration, CSP, and compliance with GDPR and PCI DSS.  10 free tests per month (without account)
+- [Pentest Tools - Website Vulnerability Scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner) - detects SQLi, XSS, command injection, XXE, and 75+ more web app vulnerabilities
+- [Pentest Tools - Network Vulnerability Scanner](https://pentest-tools.com/network-vulnerability-scanning/network-security-scanner-online) - an online security tool designed to identify vulnerabilities, misconfigurations, outdated services, and exposed ports in network infrastructure
 
 ## Cheat Sheets
 
@@ -269,6 +275,7 @@ Table of Contents
    * https://filippo.io/Heartbleed/ - A checker (site and tool) for CVE-2014-0160 (Heartbleed).
    * https://testssl.sh/ - A command line tool which checks a website's TLS/SSL ciphers, protocols and cryptographic flaws.
    * [Scorifya](https://www.scorifya.com) - 0–100 security score for any website covering TLS, security headers (CSP, HSTS, X-Frame-Options), cookies, DNS, and email signals (SPF, DKIM, DMARC) with ranked fix steps.
+   * [ImmuniWeb SSL Security Test](https://www.immuniweb.com/ssl/) - a free online tool that checks the security of a website or email server’s SSL/TLS configuration. Сhecks compliance with security standards such as NIST, HIPAA, PCI DSS, and GDPR. 10 free tests per month (without account)
 
 ## Security Ruby on Rails
 
